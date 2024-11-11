@@ -1,0 +1,10 @@
+# Day 2 - Research Standard Online Options
+
+Researched Stanford Grad vs Certificate yesterday
+* Found the videos for the CSS 221 class online [here](https://stanford-cs221.github.io/autumn2024/modules/)
+
+* Since I plan on doing my own thing, I don’t need a cert or grad creds from Stanford, just need to learn it. Won’t have network and support with problems, but if I can’t do them then I’ll go else where to get similar problems that show the solutions.
+* Linear algebra first
+    * Why?
+        * [Linear Algebra - Math for Machine Learning](https://www.youtube.com/watch?v=uZeDTwWcnuY&list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg&index=2)
+        * [Slides - Math4ML I: Linear Algebra - see slide 65](https://docs.google.com/presentation/d/1Kqf3cq2lvJ8QtunduVtaTCVfFUq574faOC-Sx6yQEK8/edit?usp=sharing)
