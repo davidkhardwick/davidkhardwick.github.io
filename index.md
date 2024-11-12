@@ -1,2 +1,2 @@
-## I have a *blog!*
+## My AI/ML Journey *blog!*
 

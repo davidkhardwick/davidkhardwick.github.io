@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: David's AI/ML Journey Blog
-description: David's AI/ML journal. I am trying out this &quot;Learning in Public&quot; approach
+description: David's AI/ML journal, and I'm using the "Learning in Public" approach
 github_username: davidkhardwick
 
 # Email and twitter are optional:
@@ -15,7 +15,7 @@ email:
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
