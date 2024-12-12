@@ -1,2 +1,2 @@
-## My AI/ML Journey *blog!*
+## My AI and ML Roadmap as a Developer
 
