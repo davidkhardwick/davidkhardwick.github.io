@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: David's AI/ML Journey Blog
-description: David's AI/ML journal, and I'm using the "Learning in Public" approach
+title: The Learning AI and ML Journey for a Developer
+description: A Developer's AI and ML learning journal -- "Learning in Public" 
 github_username: davidkhardwick
 
 # Email and twitter are optional:
@@ -18,7 +18,7 @@ twitter_username:
 use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+google_analytics: G-5W0BT3LTP4
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
